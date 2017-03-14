@@ -1,0 +1,6 @@
+{
+    "name": "mediaburst/clockwork-php",
+    "autoload": {
+        "classmap": ["/"]
+    }
+}
